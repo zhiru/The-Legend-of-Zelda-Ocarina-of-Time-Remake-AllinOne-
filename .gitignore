@@ -1,19 +1,10 @@
-# Rom & large game dumps
+/Emulator/
+/LosslessScaling/
+/ShaderCache/
 *.nup
 *.nsp
 *.xci
-*.tar.xz
 *.zip
 *.7z
 *.rar
-
-# Logs, dumps, and screenshots
-Emulator/user/log/*
-Emulator/user/crash_dumps/*
-Emulator/user/dump/*
-Emulator/user/screenshots/*
-Emulator/user/cache/shader/vulkan*
-Emulator/user/cache/shader/0400486024dec000/*
-
-# Allow gitkeep files
-!.gitkeep
+*.tar.xz
