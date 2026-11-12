@@ -9,20 +9,25 @@ Este pacote portátil **tudo em um** foi preparado para facilitar o uso de **The
 
 ---
 
+[Vídeo de gameplay](https://www.youtube.com/watch?v=sZ9ysGepE8M)
+
 ## 🛡️ Segurança e verificação no VirusTotal
 
 Você pode consultar os relatórios do VirusTotal e os hashes SHA-256 publicados pelo autor abaixo para verificar os arquivos da versão.
 
 | Arquivo | Hash SHA-256 | Relatório do VirusTotal |
 | :--- | :--- | :--- |
-| 📦 **Zelda-OoT-Remake-AllinOne-v1.0.zip** | `88e06982d921d813602d5469b0018a28f9dfd98ce83866acb23ae52bd3d6374c` | [Relatório do VirusTotal](https://www.virustotal.com/gui/url/9fe68971ec83f32ed51590bdd212448d6bbaa45361189e4282342170ccba91ba) |
-| ⚡ **Oyunu_Baslat.bat (inicializador)** | `4c862c2728316f51bfbc636d2358e9e0fd440fd6f0537554fabb630c15555b84` | [Relatório do VirusTotal](https://www.virustotal.com/gui/url/148883740dfc97bd9dd05d2012e2c0ac0f353432b72554fd3f72d9cda026409a) |
+| 📦 **Zelda-OoT-Remake-AllinOne-v1.0.zip** | `4717caa0a74dd7a9ae961b35f64e5177332a2b0562403308aefcb4d9f228cab2` | [Relatório do VirusTotal](https://www.virustotal.com/gui/url/9fe68971ec83f32ed51590bdd212448d6bbaa45361189e4282342170ccba91ba) |
+| ⚡ **Oyunu_Baslat.bat (inicializador)** | `df03a7828ac7b760805a24ffe6079e2b042c2f9d22e7599c3dfbbe311455e18b` | [Relatório do VirusTotal](https://www.virustotal.com/gui/url/148883740dfc97bd9dd05d2012e2c0ac0f353432b72554fd3f72d9cda026409a) |
 
 ---
 
 ## 🌟 Principais recursos
 
-- ⚡ **Cache com mais de 30.000 shaders pré-compilados.** Elimina os engasgos causados pela compilação de shaders durante o jogo.
+- 🏎️ **Emulador atualizado para Fritchii v5.8.4.** O autor relata de 40 a mais de 80 FPS nativos em áreas pesadas como Castle Town e de 80 a mais de 120 FPS com Lossless Scaling LSFG 2X.
+- 🧠 **Suporte a 12 GB de DRAM do Switch 2 e DLSS por jogo.** O layout de memória foi otimizado para o remake, com ajustes de qualidade e predefinições do DLSS por jogo.
+- 💾 **Gerenciador de saves com backup automático.** Importa e exporta saves com um clique, sincroniza perfis e cria cópias de segurança antes de alterações.
+- ⚡ **Cache v54 com mais de 30.000 shaders e suporte a receitas.** O cache elimina engasgos causados pela compilação durante o jogo. Inclui suporte a arquivos `.nx2recipe` e integração com `nx2-precompile`.
 - 🚀 **Integração automática com o Lossless Scaling v3.2.2.** A geração de quadros LSFG 2.3 X2 foi ajustada para oferecer fluidez a 120 FPS, sem rastros na imagem (ghosting) e sem atraso de entrada.
 - 🎨 **Imagem nítida com filtro bilinear.** A filtragem bilinear mantém a nitidez original e evita o desfoque e os artefatos associados ao FSR.
 - 🖥️ **Tela cheia sem bordas.** A barra de menus e a barra de status do emulador ficam ocultas, com escala automática em tela cheia.
