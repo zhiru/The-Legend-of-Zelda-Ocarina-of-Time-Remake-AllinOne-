@@ -51,29 +51,3 @@ Você pode consultar os relatórios do VirusTotal e os hashes SHA-256 publicados
 | **Geração de quadros** | LSFG 2 (X2) | Sem rastros no personagem Link ou em movimentos rápidos de câmera |
 | **Latência máxima de quadros** | 1 | Menor latência de entrada possível |
 | **API de captura** | DXGI | Captura de janela com latência muito baixa |
-
----
-
-## 🌐 Redes sociais e contato
-
-Acompanhe as atualizações e os próximos projetos.
-
-- 🐦 **X (Twitter):** [@lordumelkor](https://x.com/lordumelkor)
-
----
-
-## ☕ Apoio e doações
-
-Se você gostou do pacote e quer apoiar nosso trabalho, pode doar em criptomoedas.
-
-- 🪙 **Bitcoin (BTC):**  
-  `15nzhjDB6meaGNUtiTvZSKHHEsHVzZ1T6S`
-
-- 💵 **Tether (USDT):**
-  - **TRC20:** `TV7GLKkrkN94dYwtaxzoubnygJvz9BRCsG`
-  - **BEP20 (BSC):** `0x542bc68515a34e15610cef9322464c4bcced6f75`
-  - **ERC20 (ETH):** `0x542bc68515a34e15610cef9322464c4bcced6f75`
-
----
-
-*Aviso legal. Este pacote não inclui ROMs de jogos protegidos por direitos autorais (arquivos .nup). Use sua própria cópia de segurança obtida legalmente.*
